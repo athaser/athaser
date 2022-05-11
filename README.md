@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webradio]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/athaser/athaser/blob/main/img/vscode-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="PYTHON" width="26px" src="https://github.com/athaser/athaser/blob/main/img/python.png" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" style="padding-right:10px;" />][dockerhub]
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/athaser/athaser/blob/main/img/html5-original.svg" style="padding-right:10px;" />][webradio]
@@ -23,7 +23,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/athaser/athaser/blob/main/img/mongodb-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="MySQL" width="26px" src="https://github.com/athaser/athaser/blob/main/img/mysql-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="Git" width="26px" src="https://github.com/athaser/athaser/blob/main/img/git-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="Wordpress" width="26px" src="https://camo.githubusercontent.com/59c5759c83193f584df1ed5e7d2f3fe0b1413fcfb97080c324a5c5c75ae8d478/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313833353939372f3739353130332f36333964303366322d656364642d313165322d383561362d6132623562316262613065382e706e67" style="padding-right:10px;" />][webradio]
+[<img align="left" alt="Wordpress" width="26px" src="https://github.com/athaser/athaser/blob/main/img/wordpress.png" style="padding-right:10px;" />][webradio]
 
 
 
