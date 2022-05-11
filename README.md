@@ -19,12 +19,15 @@
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" style="padding-right:10px;" />][webradio]
+[<img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" style="padding-right:10px;" />][dockerhub]
+[<img align="left" alt="NGINX" width="26px" src="
+https://w7.pngwing.com/pngs/262/242/png-transparent-nginx-phusion-passenger-application-software-proxy-server-reverse-proxy-creativo-logo-de-marca-angle-text-trademark.png" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="Wordpress" width="26px" src="https://camo.githubusercontent.com/59c5759c83193f584df1ed5e7d2f3fe0b1413fcfb97080c324a5c5c75ae8d478/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313833353939372f3739353130332f36333964303366322d656364642d313165322d383561362d6132623562316262613065382e706e67" style="padding-right:10px;" />][webradio]
+
 
 
 <br />
@@ -35,3 +38,4 @@
 [twitter]: https://twitter.com/thanos_ser
 [youtube]: https://www.youtube.com/c/karmanirvami
 [linkedin]: https://www.linkedin.com/in/athaser/
+[dockerhub]:https://hub.docker.com/u/athaser
