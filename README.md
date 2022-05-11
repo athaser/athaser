@@ -15,7 +15,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="PYTHON" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMarian-MCA%2Fpython-practical-zone&psig=AOvVaw0nQA8MoBPZmpayi8xzqiKN&ust=1652350481168000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOiy3K2b1_cCFQAAAAAdAAAAABAE" style="padding-right:10px;" />][webradio]
+[<img align="left" alt="PYTHON" width="26px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][webradio]
