@@ -19,7 +19,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/athaser/athaser/blob/main/img/html5-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/athaser/athaser/blob/main/img/css3-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/athaser/athaser/blob/main/img/javascript-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" style="padding-right:10px;" />][dockerhub]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/athaser/athaser/main/img/vertical-logo-monochromatic.webp" style="padding-right:10px;" />][dockerhub]
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/athaser/athaser/blob/main/img/mongodb-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="MySQL" width="26px" src="https://github.com/athaser/athaser/blob/main/img/mysql-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="Git" width="26px" src="https://github.com/athaser/athaser/blob/main/img/git-original.svg" style="padding-right:10px;" />][webradio]
