@@ -22,7 +22,7 @@
 [<img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" style="padding-right:10px;" />][dockerhub]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webradio]
+[<img align="left" alt="Git" width="26px" src="https://github.com/athaser/athaser/blob/main/img/git-original.svg" style="padding-right:10px;" />][webradio]
 [<img align="left" alt="Wordpress" width="26px" src="https://camo.githubusercontent.com/59c5759c83193f584df1ed5e7d2f3fe0b1413fcfb97080c324a5c5c75ae8d478/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313833353939372f3739353130332f36333964303366322d656364642d313165322d383561362d6132623562316262613065382e706e67" style="padding-right:10px;" />][webradio]
 
 
