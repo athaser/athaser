@@ -1,4 +1,4 @@
-# Hi there, I'm Athanasios - aka [Thanos]👋 
+# Hi there, I'm Athanasios👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/badge/athaser-github-blue)][youtube]
 [![Twitter Follow](https://img.shields.io/badge/twitter-athaser-blue)][twitter]
