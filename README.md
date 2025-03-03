@@ -3,11 +3,11 @@
 [![YouTube Channel Subscribers](https://img.shields.io/badge/athaser-github-blue)][youtube]
 [![Twitter Follow](https://img.shields.io/badge/twitter-athaser-blue)][twitter]
 
-## I'm a Cyber Security Engineer, Developer, Consultant, and Teacher!!
+## Cyber Security Engineer | Cloud Security (Azure) | Developer | Consultant | Educator
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to record and play music
+- 🌱 Constantly refining my skills in cybersecurity, identity & access management (IAM/IDM), cloud security (Azure).
+- 👯 Open to collaborating on security research, cloud security projects, smart contract development, and automation.
+- ⚡ Fun fact: Currently experimenting with automated trading bots on blockchain, developing smart contracts, and building my own meme coin on Solana.
 
 
 ### Languages and Tools:
