@@ -5,7 +5,7 @@
 
 ## Cyber Security Engineer | Cloud Security (Azure) | Developer | Consultant | Educator
 
-- 🌱 Constantly refining my skills in cybersecurity, identity & access management (IAM/IDM), cloud security (Azure).
+- 🌱 Constantly refining my skills in cybersecurity,cloud security (Azure), identity & access management (IAM/IDM).
 - 👯 Open to collaborating on security research, cloud security projects, smart contract development, and automation.
 - ⚡ Fun fact: Currently experimenting with automated trading bots on blockchain, developing smart contracts, and building my own meme coin on Solana.
 
