@@ -1,37 +1,60 @@
-# Hi there, I'm Athanasios👋 
+# Hey, I'm Athanasios 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/badge/athaser-github-blue)][youtube]
-[![Twitter Follow](https://img.shields.io/badge/twitter-athaser-blue)][twitter]
+[![GitHub – athaser](https://img.shields.io/badge/GitHub-athaser-blue?logo=github)](https://github.com/athaser)
+[![LinkedIn](https://img.shields.io/badge/linkedin-athaser-blue?logo=linkedin)](https://www.linkedin.com/in/athaser/)
 
-## Cyber Security Engineer | Cloud Security (Azure) | Developer | Consultant | Educator
+---
 
-- 🌱 Constantly refining my skills in cybersecurity,cloud security (Azure), identity & access management (IAM/IDM).
-- 👯 Open to collaborating on security research, cloud security projects, smart contract development, and automation.
-- ⚡ Fun fact: Currently experimenting with automated trading bots on blockchain, developing smart contracts, and building my own meme coin on Solana.
+## 🛡️ Cyber Security Engineer | ☁️ Azure Cloud Specialist | 🧠 Developer | 🎓 Educator
 
+🔐 Passionate about building secure systems, automating cloud operations, and hacking ideas into real-world solutions.  
+💼 I've worked across **Deloitte, Vodafone, CERTH, GWF**, and **CENSUS** — blending research, automation, and enterprise-grade security.
 
-### Languages and Tools:
+---
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/athaser/athaser/blob/main/img/vscode-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="PYTHON" width="26px" src="https://github.com/athaser/athaser/blob/main/img/python.png" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" style="padding-right:10px;" />][dockerhub]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/athaser/athaser/blob/main/img/html5-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/athaser/athaser/blob/main/img/css3-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="JavaScript" width="26px" src="https://github.com/athaser/athaser/blob/main/img/javascript-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/athaser/athaser/main/img/vertical-logo-monochromatic.webp" style="padding-right:10px;" />][dockerhub]
-[<img align="left" alt="MongoDB" width="26px" src="https://github.com/athaser/athaser/blob/main/img/mongodb-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/athaser/athaser/blob/main/img/mysql-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="Git" width="26px" src="https://github.com/athaser/athaser/blob/main/img/git-original.svg" style="padding-right:10px;" />][webradio]
-[<img align="left" alt="Wordpress" width="26px" src="https://github.com/athaser/athaser/blob/main/img/wordpress.png" style="padding-right:10px;" />][webradio]
+### 🔧 What I Do
 
+- 🧠 **Security Automation & Reporting** using Python, Power Automate, and Microsoft Graph
+- ☁️ **Cloud Security Architecture** with Azure, Intune, Defender, Purview
+- 🔁 **Smart Contracts & Arbitrage Bots** on Ethereum/Arbitrum/Solana
+- 📦 **Linux & Container Hardening**, OS image building, proxy/VPN tunnels
+- 🧪 Mentor, educator & builder of tools that "just work"
 
+---
 
-<br />
-<br />
+### 🚀 Side Projects Worth Checking
 
-[website]: https://www.karmanirvami.com/
-[webradio]: https://radio.karmanirvami.com/
-[twitter]: https://twitter.com/thanos_ser
-[youtube]: https://www.youtube.com/c/karmanirvami
-[linkedin]: https://www.linkedin.com/in/athaser/
-[dockerhub]:https://hub.docker.com/u/athaser
+- [`intune-autopilot-onboarding-kit`](https://github.com/athaser/intune-autopilot-onboarding-kit) – Secure Windows onboarding with Autopilot
+- [`arbitrum-arbitrage-bot`](https://github.com/athaser/arbitrum-arbitrage-bot) – Real-time arbitrage between Uniswap/Sushiswap
+- [`linode-image-builder`](https://github.com/athaser/linode-image-builder) – Custom bootable Ubuntu image from scratch
+
+---
+
+### 🛠️ Languages & Tools
+
+[<img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](#)
+[<img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](#)
+[<img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />](#)
+[<img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](#)
+[<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](#)
+[<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](#)
+[<img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />](#)
+[<img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />](#)
+[<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](#)
+[<img alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](#)
+
+---
+
+### ☎️ Let’s Connect
+
+📧 Open to collaborations, consulting gigs, or just a good conversation.  
+🔗 Reach out via [LinkedIn](https://www.linkedin.com/in/athaser)
+
+---
+
+> **«Η γνώση της άγνοιας είναι η αρχή της γνώσης.»**  
+> — *Κλεόβουλος ο Ρόδιος (6ος αι. π.Χ.)*
+
+> **"The awareness of ignorance is the beginning of knowledge."**  
+> — *Cleobulus of Rhodes (6th century BC)*
+
