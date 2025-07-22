@@ -53,8 +53,6 @@
 ---
 
 > **«Η γνώση της άγνοιας είναι η αρχή της γνώσης.»**  
-> — *Κλεόβουλος ο Ρόδιος (6ος αι. π.Χ.)*
-
 > **"The awareness of ignorance is the beginning of knowledge."**  
 > — *Cleobulus of Rhodes (6th century BC)*
 
