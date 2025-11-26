@@ -8,7 +8,7 @@
 ## 🛡️ Cyber Security Engineer | ☁️ Azure Cloud Specialist | 🧠 Developer | 🎓 Educator
 
 🔐 Passionate about building secure systems, automating cloud operations, and hacking ideas into real-world solutions.  
-💼 I've worked across **Deloitte, Vodafone, CERTH, GWF**, and **CENSUS** — blending research, automation, and enterprise-grade security.
+💼 I've worked across **Deloitte, Vodafone, CERTH, GWF**, and **CENSUS**, blending research, automation, and enterprise-grade security.
 
 ---
 
